@@ -1,0 +1,35 @@
+# Blender MTL File: 'wayang.blend'
+# Material Count: 3
+
+newmtl ardzuna_body
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Facebook AR\\arjuna wayang\\ardzuna_body_AO.jpg
+
+newmtl ardzuna_body_FLIP
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Facebook AR\\arjuna wayang\\ardzuna_body.jpg
+
+newmtl ardzuna_sukienka
+Ns 71.999991
+Ka 1.000000 1.000000 1.000000
+Kd 0.550000 0.550000 0.550000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Facebook AR\\arjuna wayang\\ardzuna_sukienka_AO.jpg
