@@ -6,7 +6,7 @@ Try it out: https://www.instagram.com/ar/2252247328417723/
 <p align="center"> <img src="img/demo_cropped.jpg" alt="demonstration" width="500"/> </p>  
 
 ## Inspiration
-Indonesia is a beautiful country with thousands of cultures deeply rooted in its history. Yet sadly, according to a survey conducted by the Indonesian Ministry of Education and Culture, only 0.31% of Indonesian participate in any traditional theatre or "pedalangan" as we call it [1]. One of Indonesia's oldest theatrical performances is Wayang which was originally found in the cultures of Java, Indonesia. It involves telling a dramatic story through shadows thrown by puppets.
+According to a survey conducted by the Indonesian Ministry of Education and Culture, only 0.31% of Indonesian participate in any traditional theatre or "pedalangan" as we call it [1]. One of Indonesia's oldest theatrical performances is Wayang which was originally found in the cultures of Java, Indonesia. It involves telling a dramatic story through shadows thrown by puppets.
 
 ## What it does
 This AR effect will spawn Wayang, a traditional form of puppet theatre play originally found in the cultures of Java, Indonesia, on a plane in front of your camera. It also spawns a wall and a candle that will project the wayang's shadow onto the wall. You can tap the screen to turn on/off the light. We design it to mimic the experience of how it was done traditionally. Traditionally, the wayang gets upscaled in size, and through the shadow, a puppeteer tells its story.
