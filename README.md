@@ -5,7 +5,6 @@ Try it out: https://www.instagram.com/ar/2252247328417723/
 
 <p align="center"> <img src="img/demo_cropped.jpg" alt="demonstration" width="500"/> </p>  
 
-## Inspiration
 According to a survey conducted by the Indonesian Ministry of Education and Culture, only 0.31% of Indonesian participate in any traditional theatre or "pedalangan" as we call it [1]. One of Indonesia's oldest theatrical performances is Wayang which was originally found in the cultures of Java, Indonesia. It involves telling a dramatic story through shadows thrown by puppets.
 
 ## What it does
