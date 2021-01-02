@@ -3,7 +3,7 @@ Spawn Wayang, a traditional form of puppet theatre play originally found in the 
 
 Try it out: https://www.instagram.com/ar/2252247328417723/
 
-<p align="center"> <img src="img/demo.jpg" alt="demonstration" width="500"/> </p>  
+<p align="center"> <img src="img/demo_cropped.jpg" alt="demonstration" width="500"/> </p>  
 
 ## Inspiration
 Indonesia is a beautiful country with thousands of cultures deeply rooted in its history. Yet sadly, according to a survey conducted by the Indonesian Ministry of Education and Culture, only 0.31% of Indonesian participate in any traditional theatre or "pedalangan" as we call it [1]. One of Indonesia's oldest theatrical performances is Wayang which was originally found in the cultures of Java, Indonesia. It involves telling a dramatic story through shadows thrown by puppets.
